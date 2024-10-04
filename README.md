@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibin Sebastian</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3 align="center">Self-driven Flutter developer with a strong foundation in mobile app development. Continuously expanding my technical expertise and seeking new challenges to drive innovation in the mobile app development landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibin23&label=Profile%20views&color=0e75b6&style=flat" alt="sibin23" /> </p>
 
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sibin-sebastian-59ab55292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sibin-sebastian-59ab55292/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sibin_sebastian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sibin_sebastian/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://wlinkedin.com/in/sibin-sebastian2306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wlinkedin.com/in/sibin-sebastian2306" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sibin_sebastian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sibin_sebastian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
